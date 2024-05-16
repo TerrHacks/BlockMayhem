@@ -4,7 +4,7 @@ local allowedPartNames = {
     "Ethereal", "Astral", "Odyssey", "Lunar", "Glisten", "Celestial", "Divine",
     "Leviathan", "Omnipotent", "Desolation", "Empyrean", "Aurora", "Abyssal",
     "Cosmic", "Chronos", "Beyond", "Hypergiant", "Fool", "gnarp", "Gentleman",
-    "sevenCRYSTAL", "Binary", "TheRARESTblock"
+    "sevenCRYSTAL", "Binary", "Syntax", "Aqua", "Life", "Magma", "Icy", "Flare", "Pure", "Crystalize", "Digital", "TheRARESTblock"
 }
 
 while true do
